@@ -9,6 +9,12 @@
 
 
 
-# 3. Write a method called ultimate_rating that takes in a dog's name and the dog's breed and returns a rating based on those two factors.
-#    If the user doesn't specify the dog's breed, the method should default to assuming the dog's breed is "unknown".
-#    If the dog's breed is a Corgi, give the dog a few bonus points.
+
+# 3. Write a method called type_rating that takes in a dog's breed, returns a better rating if the dog is one of your favorite types.
+
+
+
+
+# 4. Write a method called ultimate_rating that takes in a dog's name and the dog's breed and returns a rating based on those two factors.
+#    BONUS 1: If the user doesn't specify the dog's breed, the method should default to assuming the dog's breed is "unknown".
+#    BONUS 2: If the dog's is Apollo the Corgi, give the dog even more bonus points for being FAMOUS.
